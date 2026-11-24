@@ -1,0 +1,63 @@
+case_id,tool,fit,methodology,team_size,distribution,dependency,volatility,task_management,scheduling,dependency_management,resource_allocation,agile_backlog,risk_issues,budget_cost,reporting,automation,collaboration
+1,ClickUp,2,Kanban / Lean,3,Hybrid,1,1,2,4,3,2,2,4,4,2,1,4
+2,Jira,5,Hybrid,2,Distributed across multiple countries or time zones,3,3,4,3,3,3,5,3,1,4,4,5
+3,Jira,3,Kanban / Lean,2,Fully remote/distributed,2,2,4,2,4,5,2,3,1,2,4,5
+4,Jira,2,Hybrid,1,Hybrid,2,2,2,5,1,5,5,5,1,2,2,1
+5,Jira,5,Agile / Scrum,2,Fully remote/distributed,3,2,4,3,3,4,5,3,2,4,5,5
+6,ClickUp,4,Agile / Scrum,2,Fully remote/distributed,3,2,5,5,4,5,4,5,5,4,4,5
+7,Jira,3,Agile / Scrum,1,Hybrid,2,2,4,4,5,5,2,5,5,4,5,4
+8,Jira,4,Predictive / Waterfall,2,Primarily co-located,2,1,5,5,5,4,4,5,3,3,4,5
+9,Jira,4,Hybrid,2,Fully remote/distributed,2,3,4,5,4,5,5,5,5,4,3,5
+10,ClickUp,4,Agile / Scrum,1,Fully remote/distributed,2,3,5,5,3,3,5,4,3,4,3,4
+11,ClickUp,4,Agile / Scrum,1,Fully remote/distributed,2,2,5,5,3,3,3,3,2,2,4,5
+12,Jira,4,Agile / Scrum,2,Distributed across multiple countries or time zones,2,2,4,3,4,4,4,4,5,5,4,5
+13,ClickUp,5,Agile / Scrum,2,Fully remote/distributed,2,1,4,5,4,3,3,3,3,3,3,3
+14,ClickUp,4,Agile / Scrum,2,Fully remote/distributed,2,2,4,3,5,3,4,5,5,2,5,5
+15,Jira,4,Hybrid,1,Hybrid,3,4,5,5,5,4,2,5,2,4,4,5
+16,ClickUp,3,Kanban / Lean,1,Distributed across multiple countries or time zones,3,3,5,5,5,4,5,3,5,2,1,4
+17,Jira,5,Agile / Scrum,2,Hybrid,2,2,5,5,4,5,5,5,5,5,5,4
+18,Jira,4,Agile / Scrum,1,Fully remote/distributed,2,2,3,4,3,4,5,5,5,3,4,5
+19,Jira,4,Agile / Scrum,2,Distributed across multiple countries or time zones,3,2,4,2,3,4,4,3,3,5,5,5
+20,Jira,5,Hybrid,2,Hybrid,2,3,5,3,5,4,4,5,3,4,4,4
+21,Jira,5,Hybrid,2,Hybrid,3,2,4,5,5,5,4,5,5,4,3,4
+22,ClickUp,3,Agile / Scrum,2,Fully remote/distributed,2,3,5,4,5,5,5,5,5,5,4,5
+23,ClickUp,4,Agile / Scrum,2,Distributed across multiple countries or time zones,3,4,5,5,5,5,5,5,5,5,5,5
+24,Jira,5,Kanban / Lean,2,Fully remote/distributed,2,3,5,5,4,4,4,4,4,5,5,5
+25,ClickUp,5,Agile / Scrum,1,Fully remote/distributed,3,2,5,3,5,5,5,5,2,4,3,4
+26,ClickUp,5,Hybrid,4,Fully remote/distributed,3,4,5,3,5,4,4,3,4,4,4,5
+27,Jira,5,Hybrid,3,Distributed across multiple countries or time zones,3,4,2,5,5,5,4,5,5,5,5,5
+28,ClickUp,5,Predictive / Waterfall,1,Primarily co-located,2,1,4,5,4,5,1,4,5,4,3,5
+29,Jira,4,Agile / Scrum,2,Distributed across multiple countries or time zones,3,3,5,3,5,4,5,5,3,5,5,5
+30,Jira,5,Hybrid,2,Fully remote/distributed,3,2,5,5,5,5,5,5,5,5,3,5
+31,ClickUp,4,Agile / Scrum,2,Fully remote/distributed,3,3,5,2,3,5,4,5,5,4,4,5
+32,Jira,3,Agile / Scrum,2,Fully remote/distributed,2,3,2,3,4,5,4,3,4,4,5,4
+33,Jira,5,Agile / Scrum,2,Distributed across multiple countries or time zones,2,2,4,4,4,5,5,5,4,5,4,5
+34,ClickUp,4,Agile / Scrum,3,Distributed across multiple countries or time zones,3,3,5,2,4,5,5,5,5,4,3,5
+35,Jira,5,Agile / Scrum,3,Distributed across multiple countries or time zones,2,3,5,5,5,5,5,5,5,5,4,5
+36,ClickUp,5,Agile / Scrum,2,Fully remote/distributed,2,3,2,3,4,5,5,3,1,5,4,5
+37,Jira,5,Agile / Scrum,2,Fully remote/distributed,2,3,4,4,4,4,4,5,5,5,3,5
+38,Jira,5,Agile / Scrum,2,Hybrid,3,2,5,2,3,3,4,2,3,5,3,5
+39,Jira,5,Agile / Scrum,2,Hybrid,2,2,5,2,1,3,5,1,1,2,2,5
+40,Jira,5,Agile / Scrum,2,Fully remote/distributed,2,3,4,4,4,4,4,4,4,4,4,4
+41,Jira,4,Agile / Scrum,2,Hybrid,2,1,5,5,4,4,5,4,3,4,3,5
+42,Jira,5,Agile / Scrum,3,Primarily co-located,3,4,5,4,4,5,5,4,5,5,5,5
+43,Jira,5,Agile / Scrum,2,Hybrid,3,2,5,5,4,5,5,5,3,5,4,5
+44,Jira,5,Agile / Scrum,3,Fully remote/distributed,3,3,4,3,5,4,4,4,5,5,4,5
+45,Jira,5,Agile / Scrum,1,Fully remote/distributed,3,3,5,5,5,5,5,5,5,4,5,5
+46,Jira,4,Agile / Scrum,2,Fully remote/distributed,3,2,5,4,5,5,5,4,3,4,3,5
+47,ClickUp,5,Hybrid,1,Hybrid,2,2,5,3,3,5,3,4,5,2,4,3
+48,ClickUp,4,Agile / Scrum,2,Distributed across multiple countries or time zones,2,2,5,5,4,5,5,5,4,5,4,5
+49,ClickUp,5,Agile / Scrum,2,Hybrid,2,2,3,4,4,4,3,4,3,3,5,4
+50,Jira,4,Hybrid,2,Hybrid,3,2,5,4,4,5,4,5,4,5,3,5
+51,ClickUp,4,Agile / Scrum,2,Hybrid,3,2,5,4,5,5,3,2,4,3,4,5
+52,Jira,5,Agile / Scrum,3,Hybrid,2,2,5,2,3,3,4,5,4,4,4,3
+53,Jira,3,Agile / Scrum,2,Fully remote/distributed,2,2,1,4,2,2,2,4,2,1,3,1
+54,ClickUp,5,Agile / Scrum,2,Fully remote/distributed,2,2,1,4,4,4,3,4,3,4,3,5
+55,Jira,4,Agile / Scrum,2,Fully remote/distributed,2,2,5,5,3,3,5,5,4,3,3,5
+56,Jira,4,Hybrid,3,Fully remote/distributed,2,2,4,4,4,5,5,4,5,5,4,5
+57,ClickUp,5,Agile / Scrum,3,Distributed across multiple countries or time zones,3,2,5,5,3,3,4,4,4,4,4,5
+58,Jira,4,Agile / Scrum,2,Hybrid,3,3,4,4,4,4,5,5,5,3,3,5
+59,Jira,4,Agile / Scrum,1,Primarily co-located,2,2,4,5,4,5,3,5,4,4,5,5
+60,Jira,5,Agile / Scrum,2,Fully remote/distributed,2,2,4,4,4,5,5,5,5,4,4,5
+61,Jira,5,Agile / Scrum,2,Hybrid,3,2,5,1,5,5,5,5,1,5,5,5
+62,Jira,5,Kanban / Lean,4,Distributed across multiple countries or time zones,3,4,5,5,5,5,5,5,5,5,5,5
